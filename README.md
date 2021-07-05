@@ -1,4 +1,5 @@
-# sorting_algo
+# sorting_algorithms_visualised
+
 
 ![Output](https://user-images.githubusercontent.com/50536685/124415895-6dea9600-dd73-11eb-9792-7e42101a92c2.gif)
 
